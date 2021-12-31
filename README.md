@@ -3,7 +3,7 @@
 
 ## Description
 • This Repository consists of course material and hand-on projects on Deep Learning Projects done by Me.\
-• Datasets are provided in each of the folders above, and the solution to the problem statements as well.\
+• Datasets and related codes are provided in each of the folders above\
 • Visit each folder to access the Projects in detail.
 
 
