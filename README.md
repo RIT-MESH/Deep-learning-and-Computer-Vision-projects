@@ -8,3 +8,9 @@
 
 
 <img src="https://github.com/RIT-MESH/Deep-learning-and-Computer-Vision-projects/blob/main/deep%20learning.JPG" alt="Landing Page" height="40%" width="60%">
+
+## Don't forget to ⭐ the repository, if it helped you in anyway.
+
+### Repo Stats:
+[![GitHub](https://img.shields.io/github/followers/RIT-MESH?style=social)](https://github.com/RIT-MESH)  &ensp;  [![GitHub](https://img.shields.io/github/stars/RIT-MESH/Deep-Learning-Projects?style=social)](https://github.com/RIT-MESH/Deep-learning-and-Computer-Vision-projects)  &ensp;  [![GitHub](https://img.shields.io/github/forks/RIT-MESH/Deep-learning-and-Computer-Vision-projects?style=social)](https://github.com/RIT-MESH/Deep-learning-and-Computer-Vision-projects)
+
