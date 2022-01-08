@@ -7,7 +7,7 @@ https://www.computervision.zone/
 ## Note:
 Package Requirements: **python=3.7.6**\
 See list of Environment: **conda env list**\
-Conda Environment: **conda create -n OpenCV python=3.7.6** \
+Conda Environment: **conda create -n OpenCV python=3.7.6 py-opencv<4.3**\
 Activate Environment: **conda activate OpenCV**\
 Deactivate Environment: **conda deactivate**\
 Delete Environment: **conda env remove -n nameofevnironment**
