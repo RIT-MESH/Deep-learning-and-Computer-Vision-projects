@@ -1,6 +1,6 @@
 # Learn-OpenCV-in-3-hours by Murtaza Hassan
 
-The repository contains practice and projets codes done in OpenCV course **Learn-OpenCV-in-3-hours**\
+This repository contains practice and projet codes done in OpenCV course **Learn-OpenCV-in-3-hours**\
 https://www.computervision.zone/
 
 [![Watch Video](https://github.com/RIT-MESH/Deep-learning-and-Computer-Vision-projects/blob/main/1Learn-OpenCV-in-3-hours/Resources/Thumbnail.jpg)](https://youtu.be/WQeoO7MI0Bs)
