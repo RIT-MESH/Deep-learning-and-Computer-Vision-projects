@@ -21,4 +21,17 @@ c. Apply that weighted sum to the correct Activation Function.
 The activation functions are used to map the input between the required values like (0, 1) or (-1, 1). 
 
 <img alt=" " src="https://github.com/RIT-MESH/Deep-learning-and-Computer-Vision-projects/blob/main/2%20Perceptron/pe3.JPG" />
+________________________________________________________________________________________________________________________________________________________
+&nbsp;  
+
+
+
+This predictive linear model which was developed based on labeled data sets, let's place it inside of a node. Our model node is going to receive two input notes the X1 and X2 respectively.
+
+We also implemented, gradient descent, which in every iteration minimizes the error and adjusts a linear model that better classifies our data until it comes up with the perfect.
+
+**Final output:**
+
+<img alt=" " src="https://github.com/RIT-MESH/Deep-learning-and-Computer-Vision-projects/blob/main/2%20Perceptron/Perceptron.gif" />
+
 
