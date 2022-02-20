@@ -30,8 +30,10 @@ This predictive linear model which was developed based on labeled data sets, let
 
 We also implemented, gradient descent, which in every iteration minimizes the error and adjusts a linear model that better classifies our data until it comes up with the perfect.
 
-**Final output:**
-
-<img alt=" " src="https://github.com/RIT-MESH/Deep-learning-and-Computer-Vision-projects/blob/main/2%20Perceptron/Perceptron.gif" />
 
 
+<h1 align="center">Final output:</h1>
+
+
+<p align="center"><img src="https://github.com/RIT-MESH/Deep-learning-and-Computer-Vision-projects/blob/main/2%20Perceptron/Perceptron.gif?raw=true"alt="Sublime's custom image"/>
+</p>
